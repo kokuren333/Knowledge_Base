@@ -19,10 +19,15 @@ https://kokuren333.github.io/HSKB_01_Neuroscience/
 
 https://kokuren333.github.io/HSKB_02_Psychology/
 
-3)精神医学
+3)精神医学  
 上記の内、精神医学一般についてのまとめ。
 
 https://kokuren333.github.io/HSKB_03_Psychiatry/
+
+4)臨床実践・治療  
+上記の内、精神科領域における臨床実践・治療についてのまとめ。
+
+https://kokuren333.github.io/HSKB_04_ClinicalPractice/
 
 ## resident-question-knowledge-base
 主に研修医向けのナレッジについてのまとめたObsidian Vaultです。  
