@@ -41,11 +41,17 @@ https://kokuren333.github.io/GRVS_005_Python/
 https://kokuren333.github.io/GRVS_006_ComicIllust/
 
 007)データサイエンスとkaggle(2026/04作成)  
-kaggleやデータサイエンスについてのまとめです。  
+kaggleやデータサイエンスについてのまとめです。　　
+
+https://kokuren333.github.io/GRVS_007_DSandKaggle/
 
 008)精神科LLMの安全性評価(2026/04作成)  
-精神科LLMの安全性評価についてのまとめです。  
+精神科LLMの安全性評価についてのまとめです。 
 
+https://kokuren333.github.io/GRVS_008_LLMinPsychiatry/
+
+009)小説執筆の技術  
+小説執筆の技術に関するまとめです。  
 
 
 ## 生成図解付きのvault/skills群
