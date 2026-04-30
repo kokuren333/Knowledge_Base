@@ -15,6 +15,11 @@ https://github.com/kokuren333/general-research-vault-skills
 
 https://kokuren333.github.io/GRVS_001_SignalProcessing/
 
+002)計算論的精神医学
+計算論的精神医学についてのまとめです。  
+
+https://kokuren333.github.io/GRVS_002_ComputationalPsychiatry/
+
 ## 生成図解付きのvault/skills群
 以下では$imagegenを用いて記事に最適な図解を生成しています。  
 欠点としてはvaultのファイルサイズが大きくなること、生成に時間がかかることなどです。  
