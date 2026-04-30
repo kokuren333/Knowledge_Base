@@ -51,7 +51,9 @@ https://kokuren333.github.io/GRVS_007_DSandKaggle/
 https://kokuren333.github.io/GRVS_008_LLMinPsychiatry/
 
 009)小説執筆の技術  
-小説執筆の技術に関するまとめです。  
+小説執筆の技術に関するまとめです。 
+
+https://kokuren333.github.io/GRVS_009_NovelWriting/
 
 
 ## 生成図解付きのvault/skills群
