@@ -15,7 +15,7 @@ https://github.com/kokuren333/general-research-vault-skills
 
 https://kokuren333.github.io/GRVS_001_SignalProcessing/
 
-002)計算論的精神医学
+002)計算論的精神医学  
 計算論的精神医学についてのまとめです。  
 
 https://kokuren333.github.io/GRVS_002_ComputationalPsychiatry/
