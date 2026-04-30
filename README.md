@@ -5,7 +5,7 @@
 
 ## general-reserch-vault-skills
 obsidian vaultの自動生成Skillsとそれによって生成されたvault群です。  
-信頼できるソースを参照させた上で記事を執筆するように工夫しています。 
+信頼できるソースを参照させた上で記事を執筆するように工夫しています。   
 雑多に様々なテーマに対応できるようにしています。
 
 https://github.com/kokuren333/general-research-vault-skills
