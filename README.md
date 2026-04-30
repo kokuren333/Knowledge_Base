@@ -3,9 +3,24 @@
 主には自作のObsidian Vaultやそれを静的サイト化したものを掲載する予定です。  
 分野を問わず、その他の有用なページについても掲載していくつもりです。  
 
+## general-reserch-vault-skills
+obsidian vaultの自動生成Skillsとそれによって生成されたvault群です。  
+信頼できるソースを参照させた上で記事を執筆するように工夫しています。 
+雑多に様々なテーマに対応できるようにしています。
+
+https://github.com/kokuren333/general-research-vault-skills
+
+001)音楽理論と信号処理  
+音楽理論と信号処理についてのvaultまとめです。
+
+https://kokuren333.github.io/GRVS_001_SignalProcessing/
+
+## 生成図解付きのvault/skills群
+以下では$imagegenを用いて記事に最適な図解を生成しています。  
+欠点としてはvaultのファイルサイズが大きくなること、生成に時間がかかることなどです。  
+
 ## human-science-knowledge-base
 人間科学（脳・認知・精神など）についてまとめたObsidian Vaultです。  
-2026/04現在更新中  
 
 https://github.com/kokuren333/human-science-knowledge-base
 
@@ -31,7 +46,6 @@ https://kokuren333.github.io/HSKB_04_ClinicalPractice/
 
 ## resident-question-knowledge-base
 主に研修医向けのナレッジについてのまとめたObsidian Vaultです。  
-2026/04現在更新中  
 
 https://github.com/kokuren333/resident-question-knowledge-base
 
