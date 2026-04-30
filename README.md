@@ -31,10 +31,14 @@ https://kokuren333.github.io/GRVS_003_RAG_Evaluation/
 https://kokuren333.github.io/GRVS_004_MedicalAI/
 
 005)Pythonの基礎から応用まで(2026/04作成)  
-Pythonについてのまとめです。  
+Pythonについてのまとめです。 
+
+https://kokuren333.github.io/GRVS_005_Python/
 
 006)イラスト創作と漫画制作の技術(2026/04作成)  
 イラスト創作や漫画制作の技術についてのまとめです。  
+
+https://kokuren333.github.io/GRVS_006_ComicIllust/
 
 007)データサイエンスとkaggle(2026/04作成)  
 kaggleやデータサイエンスについてのまとめです。  
