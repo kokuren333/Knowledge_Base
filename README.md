@@ -20,6 +20,21 @@ https://kokuren333.github.io/GRVS_001_SignalProcessing/
 
 https://kokuren333.github.io/GRVS_002_ComputationalPsychiatry/
 
+003)RAG評価  
+RAGの評価などについてのまとめです。  
+
+https://kokuren333.github.io/GRVS_003_RAG_Evaluation/
+
+004)医療AI評価  
+医療AIの評価などについてのまとめです。  
+
+https://kokuren333.github.io/GRVS_004_MedicalAI/
+
+005)Pythonの基礎から応用まで  
+Pythonについてのまとめです。  
+
+
+
 ## 生成図解付きのvault/skills群
 以下では$imagegenを用いて記事に最適な図解を生成しています。  
 欠点としてはvaultのファイルサイズが大きくなること、生成に時間がかかることなどです。  
